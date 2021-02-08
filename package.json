@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ericoandre/Babel_Tyorm_Graphql.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
