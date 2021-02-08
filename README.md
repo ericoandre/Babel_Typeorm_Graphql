@@ -1,4 +1,13 @@
-# Babel_Tyorm_Graphql
+# Babel Tyorm Graphql
+
+```bash
+cd 
+yarn
+yarn dev
+
+yarn build 
+yarn start
+```
 
 ```
 {
