@@ -1,6 +1,7 @@
 # Babel Tyorm Graphql
 
 ```bash
+git clone https://github.com/ericoandre/Babel_Tyorm_Graphql.git
 cd Babel_Tyorm_Graphql
 yarn
 yarn dev
@@ -8,6 +9,9 @@ yarn dev
 yarn build 
 yarn start
 ```
+<hr>
+
+## Consultas Simples GraphQl  
 
 ```
 {
