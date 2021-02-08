@@ -1,7 +1,7 @@
 # Babel Tyorm Graphql
 
 ```bash
-cd 
+cd Babel_Tyorm_Graphql
 yarn
 yarn dev
 
