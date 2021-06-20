@@ -1,18 +1,19 @@
-# Babel Tyorm Graphql
+# Babel Typeorm  Graphql
 
 ```bash
-git clone https://github.com/ericoandre/Babel_Tyorm_Graphql.git
-cd Babel_Tyorm_Graphql
-yarn
-yarn dev
+git clone https://github.com/ericoandre/Babel_Typeorm_Graphql.git
+cd Babel_Typeorm_Graphql
 
+yarn
+
+yarn dev
 yarn build 
 yarn start
 ```
 
 ## Consultas Simples GraphQl  
 
-```
+```json
 {
   users{
     id
@@ -21,7 +22,7 @@ yarn start
 }
 ```
 
-```
+```json
 mutation{
   createUser(data:{
     firstname:"erico"
